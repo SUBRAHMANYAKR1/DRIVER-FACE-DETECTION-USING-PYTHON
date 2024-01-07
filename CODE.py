@@ -4,8 +4,8 @@ import pyttsx3
 import face_recognition
     
 # AWS credentials and region
-aws_access_key_id = 'AKIAVN3OW3HF2MV52PHW'
-aws_secret_access_key = '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'
+aws_access_key_id = ''
+aws_secret_access_key = ''
 region_name = 'ap-south-1'
 bucket_name = 'pythonaatproject'  # Update with your S3 bucket name
 
